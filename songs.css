@@ -1,0 +1,9 @@
+song { 
+	display: block;
+	margin-left: 20px;
+}
+
+artist {
+	font-weight: bold;
+	font-size: 40;
+}

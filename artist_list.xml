@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songs.css"?>
+<songs>
+	<song>
+		<artist>
+			Frank Ocean
+		</artist>
+		<title>
+			"Novacane" 
+		</title>
+		<genre>
+			Contemporary R&amp;B/Hip-Hop/Rap 
+		</genre>
+		<yearReleased>
+			2011 
+		</yearReleased>
+	</song>
+
+	<song>
+		<artist>
+			Rihanna 
+		</artist>
+		<title>
+			"Diamonds"
+		</title>
+		<genre>
+			Pop
+		</genre>
+		<yearReleased>
+			2012
+		</yearReleased>
+	</song>
+
+	<song>
+		<artist>
+			Samm Henshaw and ft. EarthGang
+		</artist>
+		<title>
+			"Church"
+		</title>
+		<genre>
+			R&amp;B/Soul
+		</genre>
+		<yearReleased>
+			2019
+		</yearReleased>
+	</song>
+
+	<song>
+		<artist>
+			Frank Ocean 
+		</artist>
+		<title>
+			"Thinkin Bout You"
+		</title>
+		<genre>
+			Contemporary R&amp;B/Pop/Neo Soul
+		</genre>
+		<yearReleased>
+			2013 
+		</yearReleased>
+	</song>
+
+	<song>
+		<artist>
+			Pink Sweats 
+		</artist>
+		<title>
+			"Honesty" 
+		</title>
+		<genre>
+			R&amp;B/Soul
+		</genre>
+		<yearReleased>
+			2018
+		</yearReleased>
+	</song>
+
+	<song>
+		<artist>
+			Rihanna 
+		</artist>
+		<title>
+			"Rude Boy"
+		</title>
+		<genre>
+			Pop
+		</genre>
+		<yearReleased>
+			2009
+		</yearReleased>
+	</song>
+
+	<song>
+			<artist>
+				Melii and ft.Odalys 
+			</artist>
+			<title>
+				"Copy"
+			</title>
+			<genre>
+				R&amp;B/Soul
+			</genre>
+			<yearReleased>
+				2019
+			</yearReleased>
+		</song>
+
+		<song>
+			<artist>
+				Mayra Andrade 
+			</artist>
+			<title>
+				"Afeto"
+			</title>
+			<genre>
+				world music
+			</genre>
+			<yearReleased>
+				2018
+			</yearReleased>
+		</song>
+
+		<song>
+			<artist>
+				Ayoni 
+			</artist>
+			<title>
+				"Divine" 
+			</title>
+			<genre>
+				pop
+			</genre>
+			<yearReleased>
+				2019
+			</yearReleased>
+		</song>
+
+		<song>
+			<artist>
+				Jessie Reyez 
+			</artist>
+			<title>
+				"No Sweat"
+			</title>
+			<genre>
+				R&amp;B/Soul
+			</genre>
+			<yearReleased>
+				2020
+			</yearReleased>
+		</song>
+
+</songs>
